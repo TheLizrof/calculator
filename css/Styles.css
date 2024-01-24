@@ -48,6 +48,7 @@ body {
     font-size: 15px;
     font-weight: 600;
     box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.4);
+    outline:none;
 }
 
 .btn:hover {
@@ -55,27 +56,29 @@ body {
     border-radius: 1000%;
     box-shadow: none;
     color: #a5a5a5;
-    box-shadow: 0px 0px 8px rgba(255, 255, 255, 0.4);
+    box-shadow: 0px 0px 8px rgba(110, 110, 110, 0.4);
     transition-duration: 1s;
 }
 
 #igual {
     background-color: #7A4ED9;
+    outline:none;
 }
 
 #igual:hover {
     background-color: #301a52;
-    box-shadow: 0px 0px 8px rgba(255, 255, 255, 0.4);
+    box-shadow: 0px 0px 8px rgba(110, 110, 110, 0.4);
     transition-duration: 1s;
 }
 
 #c{
     color: #905AED;
+    outline:none;
 }
 
 #c:hover{
     color: #5d4197;
-    box-shadow: 0px 0px 8px rgba(255, 255, 255, 0.4);
+    box-shadow: 0px 0px 8px rgba(110, 110, 110, 0.4);
     transition-duration: 1s;
 }
 
@@ -84,10 +87,11 @@ body {
     color: #585858;
     border: 0;
     font-family: Silkscreen;
+    outline:none;
 }
 
 #creador:hover{
     color: #a5a5a5;
-    text-shadow: 0px 0px 8px rgba(255, 255, 255, 0.4);
+    text-shadow: 0px 0px 8px rgba(110, 110, 110, 0.4);
     transition-duration: 1s;
 }
